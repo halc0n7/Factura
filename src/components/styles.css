@@ -1,0 +1,71 @@
+
+
+.gradiente { 
+    background-image: linear-gradient(
+          rgba(25, 209, 231, 0.5),
+          rgba(243, 17, 224, 0.5)
+        ),
+     url(https://res.cloudinary.com/ddbiht36c/image/upload/v1609920316/e4kj7ufw3xt3dvc6ezob.jpg); 
+    height: 438px; 
+    width: 562px; 
+    border-radius:220px;
+    }
+
+
+    .imagen:hover {filter: opacity(.0);}
+
+    .row{
+      padding:200px;
+      background-color: #0a192f;
+    }
+
+    .hola{
+      color:#42f5bc;
+      font-family: "SF Mono","Fira Code","Fira Mono","Roboto Mono",monospace;
+    }
+
+    .nombre{
+      color: white;
+      font-size:60px;
+      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+
+    .build{
+      color: silver;
+      font-size:60px;
+      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+
+    .ingeniero{
+      color: silver;
+      font-size:19px;
+    }
+
+    .btn {
+      transition-duration: 0.4s;
+      border: 2px solid #42f5bc;
+      color: #42f5bc;
+      height: 65px; 
+      width: 190px;
+      background-color:transparent;
+     
+      
+    }
+    
+    .btn:hover {
+      background-color: #42f5bc; 
+      border: 2px solid #42f5bc;
+    
+      
+    }
+
+    .link{
+      text-decoration:none;
+      text-align: center;
+      display: inline-block;
+      width: 100%;
+      padding: 0.80rem 1.75rem;
+      color : #42f5bc;
+      font-family: "SF Mono","Fira Code","Fira Mono","Roboto Mono";
+      
+    }
